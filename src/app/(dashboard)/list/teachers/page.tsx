@@ -52,7 +52,7 @@ const columns = [
   },
 ];
 
-export const teachersData = [
+const teachersData = [
   {
     id: 1,
     teacherId: "1234567890",
