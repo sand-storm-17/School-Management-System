@@ -49,7 +49,7 @@ const columns = [
     
 ]
 
-export const studentsData = [
+const studentsData = [
     {
       id: 1,
       studentId: "1234567890",
