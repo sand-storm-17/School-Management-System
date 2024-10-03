@@ -39,7 +39,7 @@ const columns = [
   },
 ];
 
-export const assignmentsData = [
+const assignmentsData = [
     {
       id: 1,
       subject: "Math",

@@ -33,7 +33,7 @@ const columns = [
   },
 ];
 
-export const lessonsData = [
+const lessonsData = [
   {
     id: 1,
     subject: "Math",

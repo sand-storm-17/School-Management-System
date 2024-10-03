@@ -39,7 +39,7 @@ const columns = [
   },
 ];
 
-export const classesData = [
+const classesData = [
     {
       id: 1,
       name: "1A",
