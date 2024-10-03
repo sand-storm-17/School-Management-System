@@ -73,19 +73,19 @@ const SingleStudentPage = () => {
           <div className="text-lg">Shortcuts</div>
           <div className="flex flex-wrap text-xs text-nowrap gap-2 p-2">
             <button className="bg-color1 p-2 rounded-lg">
-              <Link href="/">Student's Classes</Link>
+              <Link href="/">Student&apos;s Classes</Link>
             </button>
             <button className="bg-color2 p-2 rounded-lg">
-              <Link href="/">Student's Exams</Link>
+              <Link href="/">Student&apos;s Exams</Link>
             </button>
             <button className="bg-color3 p-2 rounded-lg">
-              <Link href="/">Student's Assignments</Link>
+              <Link href="/">Student&apos;s Assignments</Link>
             </button>
             <button className="bg-color1 p-2 rounded-lg">
-              <Link href="/">Student's Teachers</Link>
+              <Link href="/">Student&apos;s Teachers</Link>
             </button>
             <button className="bg-color2 p-2 rounded-lg">
-              <Link href="/">Student's Results</Link>
+              <Link href="/">Student&apos;s Results</Link>
             </button>
           </div>
         </div>
