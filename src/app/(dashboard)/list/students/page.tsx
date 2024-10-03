@@ -53,8 +53,8 @@ const studentsData = [
     {
       id: 1,
       studentId: "1234567890",
-      name: "John Doe",
-      email: "john@doe.com",
+      name: "Kumar Sandeep",
+      email: "ksandeep@kk.com",
       photo:
         "https://images.pexels.com/photos/2888150/pexels-photo-2888150.jpeg?auto=compress&cs=tinysrgb&w=1200",
       phone: "1234567890",
