@@ -1,4 +1,5 @@
 import Announcements from "@/components/Announcements";
+import FormModal from "@/components/FormModel";
 import Performance from "@/components/Performance";
 import Schedule from "@/components/Schedule";
 import Image from "next/image";
@@ -23,6 +24,7 @@ const SingleStudentPage = () => {
               <p className="text-sm">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               </p>
+              <FormModal type="update" table="student" />
               <div className="flex flex-col md:flex-row text-xs flex-wrap justify-between">
                 <div className="">O+</div>
                 <div className="">January 2025</div>
